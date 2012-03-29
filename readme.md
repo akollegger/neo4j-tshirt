@@ -27,7 +27,7 @@ The founders are the only people with automomatic shirt granting powers. They al
 ability to promote other members to become shirt-granters. 
 
 See the
-(t-shirt model)[https://github.com/akollegger/neo4j-tshirt/wiki/T-Shirt-Model] for details
+[t-shirt model](https://github.com/akollegger/neo4j-tshirt/wiki/T-Shirt-Model) for details
 
 *Acknowledge a graphista*:
 
@@ -66,7 +66,7 @@ Like so:
 Designing a shirt
 -----------------
 We have some basic designs of shirt, from which a grantor may choose. You can check
-out the (mock-ups)[https://github.com/akollegger/neo4j-tshirt/wiki/T-Shirt-Examples] for
+out the [mock-ups](https://github.com/akollegger/neo4j-tshirt/wiki/T-Shirt-Examples) for
 some pret-a-porter shirts, or design your own. 
 
 Design whatever you'd like, however you must include these common elements:
@@ -78,7 +78,7 @@ Design whatever you'd like, however you must include these common elements:
 3. Single-color (for now)
 
 Recommended, but not required, is to use common elements derived from our logo. There is
-an (OmniGraffle Stencil)[https://github.com/akollegger/neo4j-tshirt/downloads] available
+an [OmniGraffle Stencil](https://github.com/akollegger/neo4j-tshirt/downloads) available
 which makes it easy to play with ideas. Also, you'll find eps outlines of the logo, node 
 and relationships which provide stylistically consistent building-blocks. 
 

@@ -79,8 +79,9 @@ Design whatever you'd like, however you must include these common elements:
 
 Recommended, but not required, is to use common elements derived from our logo. There is
 an [OmniGraffle Stencil](https://github.com/akollegger/neo4j-tshirt/downloads) available
-which makes it easy to play with ideas. Also, you'll find eps outlines of the logo, node 
-and relationships which provide stylistically consistent building-blocks. 
+which makes it easy to play with ideas. Also in the 
+[downloads area](https://github.com/akollegger/neo4j-tshirt/downloads), you'll find eps 
+outlines of the logo, node and relationships which provide stylistically consistent building-blocks. 
 
 Have fun!
 

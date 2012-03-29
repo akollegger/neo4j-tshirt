@@ -31,13 +31,13 @@ See the
 
 *Acknowledge a graphista*:
 
-1. Tweet "@graphista #neo4j #tshirt #ack"
+1. Tweet "@graphista paints a pretty picture #neo4j #tshirt #ack"
    - prefer to phrase as if talking about, rather than to, them
 2. This will create a KNOWS relationship in the graph, annotated with the tweet
 
 *Granting a T-Shirt to a graphista*:
 
-1. Tweet "@graphista is the Bobby Fischer of graph-like thinking #neo4j #tshirt #grant"
+1. Tweet "@graphista is a Bobby Fischer of graph-like thinking #neo4j #tshirt #grant"
 2. This will create a `KNOWS` relationship in the graph, annotated with the tweet
 3. Also, a `GRANTS` relationship will be created to indicate that the graphista gets a shirt
 4. Production of the t-shirt is a devoted, hand-crafted process (see below)

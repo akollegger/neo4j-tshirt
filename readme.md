@@ -6,28 +6,35 @@ of individual data and the value in relationships among them. Naturally, when co
 a t-shirt for our community, we wanted to acknowledge each person who would wear one,
 and how they are related to Neo4j.
 
-Simple. To become part of the social graph, someone already connected just has to
-acknowledge that they KNOW you, offering a succinct bit of recognition. If that person
+Simple. We'll create a social graph of t-shirts. To become part of the social graph, 
+someone already connected just has to acknowledge that they KNOW you. If that person
 is authorized to grant shirts, we'll print up a personalized Neo4j T-Shirt commemorating
 the acknowledgement.
 
 You may not know which mug is yours, but your shirt will be unmistakeable.
 
 Singin'
-"
-This shirt is my shirt, that shirt is your shirt, from California to the British Island
-From the Swedish Forest to Mediterranean waters
-This shirt was made for you from me
-"
+
+    This shirt is my shirt, that shirt is your shirt, 
+    from California to the British Island
+    From the Swedish Forest to Mediterranean waters
+    This shirt was made for you from me
 
 How this all works
 ------------------
-The shirts mark a social network. The network starts with Neo4j's founders, then ripples out.
+The shirts mark members of a social network. The network starts with Neo4j's founders, then ripples out.
 The founders are the only people with automomatic shirt granting powers. They also have the 
 ability to promote other members to become shirt-granters. 
 
 See the
 [t-shirt model](https://github.com/akollegger/neo4j-tshirt/wiki/T-Shirt-Model) for details
+
+
+*NOTE*: for now, this is managed through a manual process. Just send an email to
+andreas@neotechnology.com with the details about who you want to grant a shirt
+and your choice of shirt design (color, graphics, message). 
+
+The lab-day (Saturday-night) project will eventually support...
 
 *Acknowledge a graphista*:
 
@@ -75,7 +82,10 @@ Design whatever you'd like, however you must include these common elements:
   - this is the essential first-order relationship within the graph
 2. A Neo4j logo somewhere
   - perhaps a mini-logo on the neckline
-3. Single-color (for now)
+3. Cypher query on the hemline with terms that bind the person into the graph
+  - position and size are fixed, but you can decide on the query
+4. Single-color (for now) graphics
+5. Shirt color & style
 
 Recommended, but not required, is to use common elements derived from our logo. There is
 an [OmniGraffle Stencil](https://github.com/akollegger/neo4j-tshirt/downloads) available

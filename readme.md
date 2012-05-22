@@ -8,7 +8,7 @@ and how they are related to Neo4j.
 
 Simple. We'll create a social graph of t-shirts. To become part of the social graph:
 
-1. Buy a T-Shirt from [Neo4j Fashion Graph](http://neo4j.spreadshirt.com)
+1. Buy a T-Shirt from the [Neo4j T-Graph Shop](http://neo4j.spreadshirt.com)
   - Modify the Cypher match query on the back of the shirt to relate yourself
   - use your Twitter handle, and the handle of someone already in the graph
   - (emileifrem)--&gt;(akollegger)
